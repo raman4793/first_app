@@ -1,9 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This readme is for just experimenting with the git branches and stuff dont take it seriously.
 
-Things you may want to cover:
+Things you may want to cover in a normal readme:
 
 * Ruby version
 
@@ -22,7 +21,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
